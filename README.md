@@ -1,2 +1,8 @@
+
 # about-the-team-september
-[Hardik Desai](./Hardik.md)
+
+# The Team!
+
+* [Ryan Morris](./ryan-morris.md)
+* [Hardik Desai](./Hardik.md)
+
