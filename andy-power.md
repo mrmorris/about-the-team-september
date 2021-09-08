@@ -1,2 +1,2 @@
 Hello Goodbye
-scaramouch scaramouch will you do the fandango
+$$scaramouch scaramouch will you do the fandango
