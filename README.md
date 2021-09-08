@@ -1,6 +1,5 @@
 # The Team!
 
 * [Ryan Morris](./ryan-morris.md)
-* <-- Next Team Member Here
-
+* [Andy Power](./andy-power.md)
 ### Formed in 2021
