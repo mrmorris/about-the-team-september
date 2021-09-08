@@ -2,6 +2,5 @@
 
 * [Ryan Morris](./ryan-morris.md)
 * <-- Next Team Member Here
-
-### Formed in 2021
 Jagannadham Parupudi
+### Formed in 2021
